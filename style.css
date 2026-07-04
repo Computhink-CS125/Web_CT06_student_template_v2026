@@ -1,6 +1,11 @@
 html, body {
     margin: 0;
     padding: 0;
+  
+  /* set background color for whole page */
+  }
+  body {
+    background-color: #f8f9fa;
   }
   canvas {
     display: block;
